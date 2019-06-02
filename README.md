@@ -1,6 +1,7 @@
 # Summary
-
+<p>
 Budgets for schools and school districts are huge, complex, and unwieldy. It's no easy task to digest where and how schools are using their resources. [Education Resource Strategies](https://www.erstrategies.org/) is a non-profit that tackles just this task with the goal of letting districts be smarter, more strategic, and more effective in their spending.
+</p>
 
 <p align="center">
   <img src="https://s3.amazonaws.com/ers-cms/system/attachments/104/cropped/5221962900_376a523624_o.jpg" width="700" title="hover text">
