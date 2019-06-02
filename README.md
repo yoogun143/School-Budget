@@ -4,7 +4,6 @@ Budgets for schools and school districts are huge, complex, and unwieldy. It's n
 
 <p align="center">
   <img src="https://s3.amazonaws.com/ers-cms/system/attachments/104/cropped/5221962900_376a523624_o.jpg" width="700" title="hover text">
-  <p border = 0>hi</p>
 </p>
 
 The project is a multi-class-multi-label classification problem with the goal of attaching canonical labels to the freeform text in budget line items. These labels let ERS understand how schools are spending money and tailor their strategy recommendations to improve outcomes for students, teachers, and administrators.
