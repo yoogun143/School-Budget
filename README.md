@@ -10,4 +10,4 @@ Once this process is complete, we can finally offer cross-district insight into 
 
 **The right algorithm, paired with some human checks, will allow us to code financial files more accurately, more quickly, and more cheaply.**
 
-[link](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/85/)
+You can find out more information about the competition [here](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/85/)
