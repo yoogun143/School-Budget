@@ -9,3 +9,5 @@ To compare expenditure data across districts,schools budgets are distributed int
 Once this process is complete, we can finally offer cross-district insight into a partner's finances. We might observe that a particular partner spends more on facilities and maintenance than peer districts, or staffs teaching assistants more richly.
 
 **The right algorithm, paired with some human checks, will allow us to code financial files more accurately, more quickly, and more cheaply.**
+
+[link](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/85/)
