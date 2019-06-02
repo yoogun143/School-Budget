@@ -1,3 +1,5 @@
+# Summary
+
 To compare expenditure data across districts,schools budgets are distributed into certain categories in a comprehensive financial spending framework. For instance, Object_Type describes what the spending "is"—Salary, Benefits, Stipends, Equipment, or Property Rental. Other categories describe what the spending "does," which groups of students benefit, and where the funds come from.
 
 Once this process is complete, we can finally offer cross-district insight into a partner's finances. We might observe that a particular partner spends more on facilities and maintenance than peer districts, or staffs teaching assistants more richly.
